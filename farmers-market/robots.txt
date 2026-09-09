@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+Disallow: /admin/
+Disallow: /farmer/
+Disallow: /config/
+Disallow: /includes/
+
+Sitemap: https://www.aussiefarmersmarket.example.com/sitemap.xml
